@@ -24,12 +24,9 @@ public class QtdDeCadaLetraDoSeuNome {
 
 		}
 
-		for (int j = 0; j < alfabeto.length; j++)
-
-			System.out.println(
-					" Letra " + (char) ordenacao[j][0] + " ocorre " + ordenacao[j][1] + " vezes em seu nome.");
-
-		{
+		for (int j = 0; j < alfabeto.length; j++) {
+			System.out
+					.println(" Letra " + (char) ordenacao[j][0] + " ocorre " + ordenacao[j][1] + " vezes em seu nome.");
 
 		}
 	}

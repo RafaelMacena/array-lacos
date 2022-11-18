@@ -4,7 +4,7 @@ public class ConverterStringEmArray {
 
 	public static void main(String[] args) {
 
-		String name = "RAFAEL MACENA";
+		String name = "RAFAEL MACENA SOUZA";
 		
 		char[] myName = name.toCharArray();
 		
